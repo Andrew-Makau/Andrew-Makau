@@ -1,14 +1,13 @@
-Here’s a tightened, more professional, and still very **personal** version of your README that keeps your personality, improves structure, and feels more “senior” while staying interactive for visitors. You can paste this directly into `README.md` and then tweak wording if you like.
-
-***
-
 <!-- Animated Hero Section -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Andrew+Makau+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Enthusiast;Building+AI-Driven+Financial+Solutionshttps://visitor-badge.laobi.icu/badge?page_id=Andrew-Makau.Andrew-Makau&left_color=00D4FF&right
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Andrew+Makau+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Enthusiast;Building+AI-Driven+Financial+Solutions)
+
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Andrew-Makau.Andrew-Makau&left_color=00D4FF&right_color=FFD700)](https://github.com/Andrew-Makau)
+
 </div>
 
-***
+---
 
 ## 🎯 About Me
 
@@ -25,45 +24,42 @@ Since then, my goal has been clear: **be the bridge between problems and solutio
 - democratize access to financial tools  
 - turn everyday experiences into meaningful economic opportunities  
 
-***
+---
 
 ## 🚀 What I’m Doing Now
-
-```text
 📚 Learning: Python for Data Analysis & ML/AI frameworks
-🎯 Focus: Data Science • Backend Development • AI/ML
+🎯 Focus: Data Science - Backend Development - AI/ML
 🔥 Goal: Build production-grade AI solutions for finance
-💼 Status: Open to Remote Roles • Collaborations • Mentorship
-```
+💼 Status: Open to Remote Roles - Collaborations - Mentorship
 
 If you’re working on **data, finance, or AI products**, I’d love to connect and collaborate.
 
-***
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🎨 Frameworks & Libraries
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColorhttps://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dhttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logohttps://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logohttps://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo= 🎨 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo
+### 🔧 Tools & Platforms
 
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logohttps://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logohttps://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo
-
-
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColorhttps://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 📊 Areas of Interest
 
@@ -72,7 +68,7 @@ If you’re working on **data, finance, or AI products**, I’d love to connect 
 - **Mobile Development (Flutter)**  
 - **Financial Technology & Automation**
 
-***
+---
 
 ## 🏆 Selected Projects
 
@@ -93,7 +89,7 @@ A mobile budgeting app built with **Flutter** that showcases clean UI, smooth UX
 
 > I’m gradually open-sourcing more of my work as it matures.
 
-***
+---
 
 ## 📜 Education & Certifications
 
@@ -103,23 +99,35 @@ A mobile budgeting app built with **Flutter** that showcases clean UI, smooth UX
   - [SimpliLearn – AWS/Cloud Computing](https://simpli-web.app.link/e/U58VEYZ4uZb)  
   - [EFSET – English Proficiency](https://cert.efset.org/FKtQKE)  
 
-***
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew-Makau&theme=tokyonight&show_icons=true&hide_border=true&count_privatehttps://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Makau&theme=tokyonight&layout=compact&hide_border=truehttps://github-readme-streak-stats.herokuapp.com/?user=Andrew-Makau&theme=tokyonight&hide_border=true Contribution Fun
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrew-Makau&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Snake animation](https://github.com/Andrew-Makau/Andrew-Makau/blob/output/github-con
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Makau&theme=tokyonight&layout=compact&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Makau&theme=tokyonight&hide_border=true)
 
+</div>
 
-***
+---
+
+## 🐍 Contribution Fun
+
+![Snake animation](https://github.com/Andrew-Makau/Andrew-Makau/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🎵 Currently Listening To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r4tmy2ofxyxz64bxcqv5qz5efy&cover_image=true&theme=default&show_offline=false&background_color(https://github.com/kittinan/spotify-github Vision & Problems I Want to Solve
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r4tmy2ofxyxz64bxcqv5qz5efy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+## 🎯 Vision & Problems I Want to Solve
 
 ### Vision
 
@@ -131,7 +139,7 @@ Build the **bridge between problems and solutions** using data-driven and AI-pow
 - 🤝 **Service Matching** – Connecting people with the right providers efficiently  
 - 📈 **AI for Real-Life Use Cases** – Predicting and solving everyday challenges, especially in **African markets**
 
-***
+---
 
 ## 🌍 Beyond the Code
 
@@ -141,7 +149,7 @@ Build the **bridge between problems and solutions** using data-driven and AI-pow
 
 These interests strongly influence how **user-centered** and **context-aware** I try to make my solutions.
 
-***
+---
 
 ## 🤝 Let’s Connect
 
@@ -150,21 +158,22 @@ These interests strongly influence how **user-centered** and **context-aware** I
 Interested in **collaborations, mentorship, remote roles, or open source**?  
 Feel free to reach out — I genuinely enjoy connecting with builders and problem solvers.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewmakau18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrew-Makau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-makau)
+
 </div>
 
-***
+---
 
 ## 📈 Learning Roadmap
+Now: Python for Data Science & ML fundamentals
+Next: Advanced ML/AI models (TensorFlow / PyTorch)
+Then: Production-ready AI systems for finance
+Vision: Lead AI innovation in African tech ecosystems
 
-```text
-Now:     Python for Data Science & ML fundamentals
-Next:    Advanced ML/AI models (TensorFlow / PyTorch)
-Then:    Production-ready AI systems for finance
-Vision:  Lead AI innovation in African tech ecosystems
-```
 
-***
+---
 
 ## 💬 A Few Thoughts
 
@@ -172,7 +181,7 @@ Vision:  Lead AI innovation in African tech ecosystems
 
 > “The best technology is the one that solves real problems for real people.”
 
-***
+---
 
 <div align="center">
 
@@ -180,14 +189,10 @@ Vision:  Lead AI innovation in African tech ecosystems
 
 **Let’s build meaningful solutions together.** 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Happy+Coding!;Stay+Curious!;Keep+Learning>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Happy+Coding!;Stay+Curious!;Keep+Learning!;Build+Together!)
 
-***
+</div>
+
+---
 
 **Last Updated:** December 29, 2025
-
-***
-
-If you want, the next step can be making a **short “Pinned Projects” section** with direct links to 3–4 repos that best show your skills (Flutter budget app, any data project, any backend API).
-
-[1](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there)
