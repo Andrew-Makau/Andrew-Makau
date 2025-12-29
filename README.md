@@ -1,7 +1,7 @@
 <!-- Animated Hero Section -->
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Andrew+Makau+%F0%9F%91%8B;Full-Stack+Developer+%7C+Data+Enthusiast;Building+AI-Driven+Financial+Solutions)
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Andrew+Makau+%F0%9F%91%8B;The+Greatest+Tech+Problem+Solver+%F0%9F%9A%80;Building+Solutions+That+Connect+People;Dreaming+in+AI%2FML+and+Data+%F0%9F%A4%96)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Andrew-Makau.Andrew-Makau&left_color=00D4FF&right_color=FFD700)](https://github.com/Andrew-Makau)
 
@@ -11,35 +11,29 @@
 
 ## 🎯 About Me
 
-I'm **Andrew Makau**, a **Full-Stack Developer & Data Enthusiast** pursuing a **BSc. in Applied Computer Science** at **Daystar University** (since September 2022), based in **Nairobi, Kenya**.  
-I focus on building solutions that connect people, unlock opportunities, and leverage **data & AI** to solve real-world problems in **finance and services**.
+I'm **Andrew Makau**, a passionate **Full-Stack Developer & Data Enthusiast** currently pursuing my **BSc. in Applied Computer Science** at **Daystar University** (since September 2022). Based in **Nairobi, Kenya** 🇰🇪, I'm on a mission to solve real-world problems through technology.
 
-### 💡 Background
+### 💡 My Story
+My coding journey began in **April 2022** when I discovered the power of code to solve everyday problems. What started with simple inventory and budgeting apps evolved into a passion for creating meaningful solutions. The COVID-era tech revolution captivated me, and I realized: *I wanted to be the bridge between problems and solutions through technology*.
 
-I started coding in **April 2022**, building small inventory and budgeting apps that showed how code can directly improve everyday life.  
-Since then, my goal has been clear: **be the bridge between problems and solutions through technology**—especially in African markets.
-
-**Core Mission:** Use **software + data + AI** to  
-- connect service providers with the people who need them  
-- democratize access to financial tools  
-- turn everyday experiences into meaningful economic opportunities  
+**Core Mission**: To broker opportunities and connections through technology—connecting service providers with people who need them, monetizing common experiences, and revolutionizing the financial sector with AI-powered solutions.
 
 ---
 
-## 🚀 What I’m Doing Now
-📚 Learning: Python for Data Analysis & ML/AI frameworks
-🎯 Focus: Data Science - Backend Development - AI/ML
-🔥 Goal: Build production-grade AI solutions for finance
-💼 Status: Open to Remote Roles - Collaborations - Mentorship
+## 🚀 Current Focus
 
-If you’re working on **data, finance, or AI products**, I’d love to connect and collaborate.
+```
+📚 Learning: Python for Data Analysis & ML/AI Frameworks
+🎯 Specialization: Data Science | Backend Development | AI/ML
+🔥 Goal: Master machine learning and teach AI models to solve financial problems
+💼 Status: Open to Remote Work & Collaborations | Seeking Mentorship
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -49,59 +43,51 @@ If you’re working on **data, finance, or AI products**, I’d love to connect 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frameworks & Libraries
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🔧 Tools & Platforms
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📊 Areas of Interest
-
-- **Data Science & Machine Learning**  
-- **Backend & API Development**  
-- **Mobile Development (Flutter)**  
-- **Financial Technology & Automation**
+### 📊 Specializations
+- **Data Science** | **Machine Learning** | **Backend Development** | **Mobile Development**
+- **Problem Solving** | **Financial Tech** | **API Development**
 
 ---
 
-## 🏆 Selected Projects
+## 🏆 Featured Projects
 
-### 💰 Budget App (Flutter)
+### 💰 Budget App with Flutter
+A fully functional mobile budgeting application built with **Flutter**, demonstrating UI/UX design and mobile development expertise.
+- **Tech Stack**: Flutter, Dart
+- **Features**: Expense tracking, budget management, financial insights
+- **Status**: Working & Deployable
 
-A mobile budgeting app built with **Flutter** that showcases clean UI, smooth UX, and practical financial features.
-
-- **Stack:** Flutter, Dart  
-- **Highlights:** Expense tracking, budget categories, simple analytics  
-
-> 🔗 Add a link here later: `Coming soon` or repo URL.
-
-### 📚 Portfolio & Learning Projects
-
-- **Responsive Web Design** – Modern, accessible layouts  
-- **Full-Stack Apps** – Combining frontend, backend, and APIs  
-- **Data Analysis Notebooks** – Python, Pandas, and visualization  
-
-> I’m gradually open-sourcing more of my work as it matures.
+### 📚 Portfolio Projects
+- **Responsive Web Design Projects** - Modern, responsive layouts and components
+- **Full-Stack Applications** - Combining frontend and backend technologies
+- **Data Analysis Projects** - Python-based analysis and visualization
 
 ---
 
-## 📜 Education & Certifications
+## 📜 Certifications & Achievements
 
-- 🎓 **Daystar University** – BSc. Applied Computer Science (Sep 2022 – Present)  
-- 📜 **Certifications:**
-  - [SimpliLearn – Python Data Science](https://simpli-web.app.link/e/hqCIrUR4uZb)  
-  - [SimpliLearn – AWS/Cloud Computing](https://simpli-web.app.link/e/U58VEYZ4uZb)  
-  - [EFSET – English Proficiency](https://cert.efset.org/FKtQKE)  
+I'm committed to continuous learning and professional development:
+
+✅ **Daystar University** - BSc. Applied Computer Science (Sep 2022 - Present)
+
+✅ **Professional Certifications**:
+- [SimpliLearn Python Data Science](https://simpli-web.app.link/e/hqCIrUR4uZb)
+- [SimpliLearn AWS/Cloud Computing](https://simpli-web.app.link/e/U58VEYZ4uZb)
+- [EFSET English Proficiency](https://cert.efset.org/FKtQKE)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -115,48 +101,54 @@ A mobile budgeting app built with **Flutter** that showcases clean UI, smooth UX
 
 ---
 
-## 🐍 Contribution Fun
+## 🎮 Contribution Snake Animation
 
 ![Snake animation](https://github.com/Andrew-Makau/Andrew-Makau/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎵 Currently Listening To
+## 🎵 Currently Vibing To
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31r4tmy2ofxyxz64bxcqv5qz5efy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
-## 🎯 Vision & Problems I Want to Solve
+## 🎯 What Drives Me
 
-### Vision
+### My Vision
+I want to build the **bridge between problems and solutions** through technology. Specifically:
 
-Build the **bridge between problems and solutions** using data-driven and AI-powered systems.
+1. **🏦 Financial Revolution** - Create AI-powered automations that democratize financial access and opportunities
+2. **🤝 Problem-Solution Broker** - Connect service providers with people who need them through intelligent tech platforms
+3. **💎 Monetizing Experiences** - Build platforms that turn common experiences into economic opportunities
 
-### Problem Spaces
-
-- 🏦 **Financial Access** – Making financial services more inclusive and data-informed  
-- 🤝 **Service Matching** – Connecting people with the right providers efficiently  
-- 📈 **AI for Real-Life Use Cases** – Predicting and solving everyday challenges, especially in **African markets**
-
----
-
-## 🌍 Beyond the Code
-
-- ⚽ **Football:** Winger / attacking midfielder / striker  
-- 🧠 **Psychology:** Curious about human behavior & decision-making  
-- 🦁 **Wildlife:** Deep appreciation for animals and nature  
-
-These interests strongly influence how **user-centered** and **context-aware** I try to make my solutions.
+### Problems I Want to Solve
+- Making financial services accessible to everyone
+- Reducing barriers between service providers and customers
+- Leveraging AI/ML to predict and solve real-world challenges
+- Building inclusive tech solutions for African markets
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 Interests Beyond Code
+
+⚽ **Soccer Enthusiast** - Playing as a winger, attacking midfielder, and striker
+🧠 **Human Psychology** - Fascinated by human behavior and decision-making
+🦁 **Animal Lover** - Passionate about wildlife and animal behavior
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I'm actively looking for:
+- 💡 **Collaborations** with fellow developers and innovators
+- 🎓 **Mentorship** opportunities to grow my skills
+- 🚀 **Open Source Projects** to contribute to
+- 💼 **Remote Work Opportunities** in Data Science, Backend, or AI/ML
+
+### 📧 Reach Out To Me
 
 <div align="center">
-
-Interested in **collaborations, mentorship, remote roles, or open source**?  
-Feel free to reach out — I genuinely enjoy connecting with builders and problem solvers.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewmakau18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrew-Makau)
@@ -166,28 +158,33 @@ Feel free to reach out — I genuinely enjoy connecting with builders and proble
 
 ---
 
-## 📈 Learning Roadmap
-Now: Python for Data Science & ML fundamentals
-Next: Advanced ML/AI models (TensorFlow / PyTorch)
-Then: Production-ready AI systems for finance
-Vision: Lead AI innovation in African tech ecosystems
+## 📈 My Learning Roadmap
 
+```
+Current: Python Data Science & ML Fundamentals
+    ↓
+Next: Advanced ML/AI Models & TensorFlow/PyTorch
+    ↓
+Goal: Build Production AI Solutions for Finance
+    ↓
+Vision: Lead AI Innovation in African Tech Ecosystem
+```
 
 ---
 
-## 💬 A Few Thoughts
+## 💬 Random Dev Wisdom
 
-> “Code is poetry written for machines but read by humans. Make it beautiful, make it meaningful.” — Andrew Makau  
+> "Code is poetry written for machines but read by humans. Make it beautiful, make it meaningful." — Andrew Makau
 
-> “The best technology is the one that solves real problems for real people.”
+> "The best technology is one that solves real problems for real people." 
 
 ---
 
 <div align="center">
 
-### 🌟 If you find my work interesting, consider ⭐ starring a repo or opening an issue to collaborate.
+### 🌟 If you found my profile interesting, don't forget to ⭐ my repositories!
 
-**Let’s build meaningful solutions together.** 🚀
+**Let's build something amazing together** 🚀
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Happy+Coding!;Stay+Curious!;Keep+Learning!;Build+Together!)
 
@@ -195,4 +192,4 @@ Vision: Lead AI innovation in African tech ecosystems
 
 ---
 
-**Last Updated:** December 29, 2025
+**Last Updated**: December 29, 2025
